@@ -1,0 +1,1 @@
+<p><strong>{{$comment -> content}}</strong></p>
